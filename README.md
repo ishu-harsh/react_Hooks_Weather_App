@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Weather App Using Only React Hooks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple Weather App using openweathermap.org Api's 
+
+![alt text](http://url/to/img.png)
 
 ## Available Scripts
 
