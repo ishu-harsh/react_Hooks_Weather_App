@@ -8,7 +8,7 @@ import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
 
 
-const apiKey = "1e75805480e99d4ceba35fd50dd7e649"
+const apiKey = "Your API Key"
 
 const apiUrl = `http://api.openweathermap.org/data/2.5/weather?appid=${apiKey}&`
 const useStyles = makeStyles((theme)=>({
